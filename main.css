@@ -19,14 +19,15 @@ p {
 }
 
 h3 {
-
 #box-one {
 background-color: gray;
+padding: 10px;
+	}
 }
- 
+
+h4 {
 #box-two {
 background-color: yellow;
 padding: 10px;
-}
-
+	}
 }
