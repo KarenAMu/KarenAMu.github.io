@@ -29,6 +29,25 @@ p {
 	align-items: center;
 }
 
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button1 {
+	background-color: #008CBA;
+	font-size: 16px;
+	padding: 10px 24px;
+	border-radius: 4px;
+	} /* Blue */
+
 h3 {
 
 #box-one{ 
