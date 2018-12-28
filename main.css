@@ -26,12 +26,8 @@ p {
 }
 
 h3 {
-#box-one {
-background-color: gray;
-padding: 10px;
-}
 
-#box-two{ 
+#box-one{ 
 background-color: yellow;
 padding: 10px;
 }
