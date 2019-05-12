@@ -28,11 +28,11 @@ p {
 #contact {
 	align-items: center;
 
-	.myDiv{
+	#myDiv{
 	text-align: center;
 	}
 
-	.mySpan{
+	#mySpan{
 	writing-mode: vertical-lr; 
 	transform: rotate(180deg);
 	}
@@ -74,4 +74,15 @@ background-color: yellow;
 padding: 10px;
 }
 
+}
+
+h4 {
+#myDiv{
+	text-align: center;
+	}
+
+	#mySpan{
+	writing-mode: vertical-lr; 
+	transform: rotate(180deg);
+	}
 }
