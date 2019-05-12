@@ -77,12 +77,12 @@ padding: 10px;
 }
 
 h4 {
-#myDiv{
-	text-align: center;
-	}
+	#myDiv{
+text-align: center;
+}
 
-	#mySpan{
-	writing-mode: vertical-lr; 
-	transform: rotate(180deg);
-	}
+#mySpan{
+writing-mode: vertical-lr; 
+transform: rotate(180deg);
+}
 }
