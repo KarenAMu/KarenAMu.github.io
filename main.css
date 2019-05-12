@@ -67,11 +67,11 @@ padding: 10px;
 
 }
 
-#myDiv{
+.myDiv{
 text-align: center;
 }
 
-#mySpan{
+.mySpan{
 writing-mode: vertical-lr; 
 transform: rotate(180deg);
 }
