@@ -14,6 +14,7 @@ body {
    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
    font-weight: 300;
    color: #333;
+   text-align: justify;
 }
 
 
@@ -26,7 +27,7 @@ body {
   padding: 10px;
 }
 
-.column:button {
+.column {
   font-family: "Arial";
   background-color: #4CAF50; /* Green */
   border: none;
@@ -78,11 +79,10 @@ p {
 	}
 }
 
-/*
+
 .button {
   font-family: "Arial";
   background-color: #4CAF50; /* Green */ 
-  /*
   border: none;
   color: white;
   padding: 15px 32px;
@@ -92,7 +92,7 @@ p {
   border-radius: 4px;
   font-size: 16px;
 }
-*/
+
 
 .button:hover {
 	-webkit-transition-duration: 0.4s; /* Safari */
