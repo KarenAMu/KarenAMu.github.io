@@ -24,7 +24,9 @@ body {
 .column {
   float: left;
   padding: 10px;
-  .button {
+}
+
+.column:button {
   font-family: "Arial";
   background-color: #4CAF50; /* Green */
   border: none;
@@ -35,7 +37,6 @@ body {
   display: inline-block;
   border-radius: 4px;
   font-size: 16px;
-}
 }
 
 .left {
@@ -77,10 +78,11 @@ p {
 	}
 }
 
-
+/*
 .button {
   font-family: "Arial";
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50; /* Green */ 
+  /*
   border: none;
   color: white;
   padding: 15px 32px;
@@ -90,6 +92,7 @@ p {
   border-radius: 4px;
   font-size: 16px;
 }
+*/
 
 .button:hover {
 	-webkit-transition-duration: 0.4s; /* Safari */
