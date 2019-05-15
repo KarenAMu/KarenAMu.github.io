@@ -85,9 +85,9 @@ p {
 
 .button {
   font-family: "Arial";
-  background-color: #E0FFFF; /* Green */ 
+  background-color: #D8BFD8; /* Green */ 
   border: none;
-  color: white;
+  color: #696969;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
