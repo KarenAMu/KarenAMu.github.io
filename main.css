@@ -152,6 +152,31 @@ p {
 }
 
 
+.cv_btn {
+  font-family: "Arial";
+  background-color: #D8BFD8; /* Green */ 
+  border: none;
+  color: #696969;
+  padding: 6px 23px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; 
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.cv_btn:hover {
+   -webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	box-shadow: 0 12px 12px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.cv_btn img {
+    float: left;
+}
+
+
 
 
 
